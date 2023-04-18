@@ -8,3 +8,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Be able to remove a task whenever it's done,
 - When checked make it go to the bottom of the to do list and change it style,
 - Delete all tasks.
+- Save the information on the local storage.
+
+
+
+# Feel free to give any tips or ideas on how to improve!
+
