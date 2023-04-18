@@ -11,6 +11,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Save the information on the local storage.
 
 
+# [Live Url here](https://to-do-list-angular-tan.vercel.app)
+
+
 
 # Feel free to give any tips or ideas on how to improve!
 
